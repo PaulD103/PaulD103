@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Maaz</h1>
-<h3 align="center">A Self-Taught Developer, Learning Mobile App Developement With React Native</h3>
+<h1 align="center">Hi 👋, I'm Paul</h1>
+<h3 align="center">A Self-Taught Developer, Currently Learning Artificial Intelligence in Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maazshakeel&label=Profile%20views&color=0e75b6&style=flat" alt="maazshakeel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PaulD103&label=Profile%20views&color=0e75b6&style=flat" alt="PaulD103" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazshakeel" alt="maazshakeel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaulD103" alt="PaulD103" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/procoder88" target="blank"><img src="https://img.shields.io/twitter/follow/procoder88?logo=twitter&style=for-the-badge" alt="procoder88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/js__coding" target="blank"><img src="https://img.shields.io/twitter/follow/procoder88?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>
 
-- 🔭 I’m currently working on [Pomodoro-Timer App](https://github.com/maazshakeel/Pomodoro-Timer-App-React-Native)
+- 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org)
 
-- 🌱 I’m currently learning **React Native, CS50 Mobile App Development With React Native**
+- 🌱 I’m currently learning **Artificial Intelligence, CS50's Introduction to Artificial Intelligence with Python**
 
-- 👯 I’m looking to collaborate on **open source react native projects**
+- 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **Artificial Intelligence in Python**
 
-- 👨‍💻 All of my projects are available at [http://maazshakeel.ml](http://maazshakeel.ml)
+- 👨‍💻 All of my projects are available at [javascriptcoding.org](https://javascriptcoding.org)
 
-- 💬 Ask me about **React Native, C, Python and JavaScript**
+- 💬 Ask me about **React.js, Python and JavaScript**
 
-- 📫 How to reach me **maaz.shakeel.bodla@gmail.com**
+- 📫 How to reach me **contact@javascriptcoding.org**
 
-- ⚡ Fun fact **I love to draw**
+- ⚡ Fun fact **I love films about artificial intelligences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
