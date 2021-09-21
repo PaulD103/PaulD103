@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [javascriptcoding.org](https://javascriptcoding.org)
 
-- 💬 Ask me about **React.js, Python and JavaScript**
+- 💬 Ask me about **Python, Flask, JavaScript, React.js, CSS and SQL**
 
 - 📫 How to reach me **contact@javascriptcoding.org**
 
