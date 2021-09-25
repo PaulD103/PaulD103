@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A Self-Taught Developer, Currently Learning Artificial Intelligence in Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauld103&label=Profile%20views&color=0e75b6&style=flat" alt="PaulD103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanis02015&label=Profile%20views&color=0e75b6&style=flat" alt="Yanis02015" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauld103" alt="PaulD103" /></a> </p>
 
