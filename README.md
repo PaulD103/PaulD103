@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauld103" alt="PaulD103" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pauldunz" target="blank"><img src="https://img.shields.io/twitter/follow/js__coding?logo=twitter&style=for-the-badge" alt="pauldunz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pauldunz" target="blank"><img src="https://img.shields.io/twitter/follow/pauldunz?logo=twitter&style=for-the-badge" alt="pauldunz" /></a> </p>
 
 - 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org)
 
