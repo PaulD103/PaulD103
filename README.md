@@ -5,21 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauld103" alt="PaulD103" /></a> </p>
 
-- 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org)
+- 🔭 I’m currently working on [Side Projects in Javascript](https://github.com/PaulD103/javascriptcodingProjects), I share on my own coded [React WebApp](https://javascriptcoding.org) (currently not working, because of API issues)
 
-- 🌱 I’m currently coding an app in **Flutter**. In a few weeks V1.0 will be launched!
+- 🌱 I’m currently coding an app in **Flutter**. In a few weeks V2.0 will be launched!
 
 - 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 🤝 I’m looking for help with **Artificial Intelligence in Python**
-
-- 👨‍💻 All of my projects are available at [javascriptcoding.org](https://javascriptcoding.org)
+- 👨‍💻 All of my projects are available at [javascriptcoding.org](https://javascriptcoding.org) (currently not working, because of API issues)
 
 - 💬 Ask me about **Python, Flask, JavaScript, React.js, CSS and SQL**
 
-- 📫 How to reach me **contact@javascriptcoding.org**
-
-- ⚡ Fun fact **I love films about artificial intelligences**
+- 📫 How to reach me **pauldunz@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
